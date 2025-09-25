@@ -9,5 +9,5 @@
 
 <p>heyyvldhvklfnfklvndlf</p>
 
-<h3>Note: only plain HTML & CSS were used, no framework or other tools were used.</h3>
+<h3>Note: only plain HTML & CSS were used; no framework or other tools were utilized.</h3>
 
