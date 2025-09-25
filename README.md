@@ -1,1 +1,6 @@
-<h1 align="center">Welcome to my profolio</h1>
+<h1 align="center">Welcome to my portfolio</h1>
+
+<p>heyyvldhvklfnfklvndlf</p>
+
+<h3>Note</h3>
+
