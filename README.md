@@ -9,5 +9,5 @@
 
 
 
-<h3>Note: only plain HTML & CSS were used; no framework or other tools utilized.</h3>
+<h3 align="center">Note: only plain HTML & CSS were used; no framework or other tools utilized.</h3>
 
